@@ -1,0 +1,11 @@
+Q: What are your business hours?
+A: We are open Monday to Friday, 9am to 6pm IST.
+
+Q: How do I track my order?
+A: Visit our website, go to Orders section and enter your order ID.
+
+Q: Do you offer refunds?
+A: Yes, we offer full refunds within 30 days of purchase.
+
+Q: How do I contact support?
+A: Email us at support@techhaven.com or call +91-XXXXXXXXXX.
